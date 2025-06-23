@@ -76,37 +76,7 @@ F. Halaman Publik yang Rapi & Dinamis
 
 **Struktur Folder**
 
-personal_web/
+![Screenshot 2025-06-23 115243](https://github.com/user-attachments/assets/0717420f-1eba-4070-bf7e-5dfcb35055de)
 
-├── index.php
-
-├── gallery.php
-├── about.php
-├── koneksi.php
-├── admin/
-│   ├── login.php
-│   ├── cek_login.php
-│   ├── logout.php
-│   ├── about.php
-│   ├── add_about.php
-│   ├── add_artikel.php
-│   ├── add_gallery.php
-│   ├── beranda_admin.php
-│   ├── data_artikel.php
-│   ├── data_gallery.php
-│   ├── delete_about.php
-│   ├── delete_artikel.php
-│   ├── delete_gallery.php
-│   ├── edit_artikel.php
-│   ├── edit_gallery.php
-│   ├── edit_about.php
-│   ├── proses_add_about.php
-│   ├── proses_add_artikel.php
-│   ├── proses_add_gallery.php
-│   ├── proses_edit_about.php
-│   ├── proses_edit_artikel.php
-│   ├── proses_edit_gallery.php
-├── images/
-├── tailwind.config.js (opsional)
 
 
