@@ -17,8 +17,6 @@ A. Login & Logout
 • Halaman login admin dengan validasi. 
 • Sistem sesi untuk melindungi halaman admin. 
 • Logout untuk mengakhiri sesi dengan aman.
-
- 
 B. Manajemen Artikel 
 • Tambah artikel (judul + isi). 
 • Edit artikel yang sudah ada. 
