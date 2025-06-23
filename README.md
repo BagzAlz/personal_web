@@ -14,11 +14,8 @@ mengelola konten.
 
 **Fitur-fitur**
 A. Login & Logout 
-
 • Halaman login admin dengan validasi. 
-
 • Sistem sesi untuk melindungi halaman admin. 
-
 • Logout untuk mengakhiri sesi dengan aman.
 
  
