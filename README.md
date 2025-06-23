@@ -13,6 +13,8 @@ Website ini memiliki dua bagian utama:
 mengelola konten.
 
 **Fitur-fitur**
+A. Login & Logout
+
 A. Login & Logout 
 • Halaman login admin dengan validasi. 
 • Sistem sesi untuk melindungi halaman admin. 
